@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @naltamura, I'm PhD student at "La Sapienza" University of Rome.
-- 👀 I’m interested in Cybersecurity, IoT, IoUT, UWSN, communication secuirty protocol, IOTA technologies.
+- 👀 I’m interested in Cybersecurity, IoT, IoUT, UWSN, communication secuirty protocols, IOTA technologies.
 - 🌱 I’m currently learning bare metal programming and embedded programming for MCU.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: altamura@diag.uniroma1.it
 
 <!---
